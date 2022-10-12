@@ -3,7 +3,7 @@ module.exports = defineConfig({
   transpileDependencies: true
 })
 module.exports = {
-  publicPath: './',
+  publicPath: '/carplay/',
   devServer: {
     proxy: {
       '/token': {
@@ -13,7 +13,4 @@ module.exports = {
       }
     }
   }
-}
-module.exports = {
-  publicPath: '/carplay/'
 }

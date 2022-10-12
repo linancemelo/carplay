@@ -1,0 +1,20 @@
+.sidebar {
+  height: 668px !important;
+}
+
+.rounded-app {
+  border-radius: 20%;
+}
+
+.music {
+  background-color: #ff0348;
+}
+
+.phone {
+  background-color: lightgreen;
+}
+
+.filter-blur {
+  backdrop-filter: blur(100px);
+  background-color: rgba(0, 0, 0, 0.5);
+}

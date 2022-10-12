@@ -1,0 +1,26 @@
+.contact {
+  background-color: #24232d;
+}
+
+li {
+  list-style: none;
+}
+
+.top li {
+  color: #9c9ba0
+}
+
+.active {
+  color: #31d5fd !important
+}
+
+.main li {
+  position: relative;
+  background-color: #454449;
+}
+
+.main li span:nth-child(3) {
+  position: absolute;
+  right: 1rem;
+  color: #cccbd0
+}
